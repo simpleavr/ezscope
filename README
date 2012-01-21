@@ -1,0 +1,11 @@
+ezscope
+. ezscope.c firmware for ti launchpad
+. ezscope.pl perl script ui part to be run on pc
+. builds on mspgcc or ti ccs
+. perl script ui can be run under linux or windows
+. requires perl and some perl packages
+. original coded 2010 dec
+2012-01-21
+. put up source upon request
+. rather limited at this stage, low resolution, low speed
+. plan to do clean-up and better instructions
